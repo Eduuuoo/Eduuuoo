@@ -2,9 +2,8 @@
 
 # ⚡ EDUARDO FERNANDES SILVA
 
-```txt
+
  HTML • CSS • Python • Redes • Cloud 
-```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Estudante+do+IFRO;Focado+em+Python;Redes+e+Cloud+Computing;Tecnologia+como+express%C3%A3o+criativa;Sempre+aprendendo+algo+novo..." />
 
