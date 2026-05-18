@@ -27,4 +27,4 @@ Atualmente estudo no **IFRO**, onde venho desenvolvendo habilidades em:
 ## 🛠️ Tecnologias e ferramentas
 
 ```txt
-HTML • CSS • JavaScript • Python • Git • GitHub
+HTML • CSS • Python • Git • GitHub • Cloud • Redes 
