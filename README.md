@@ -13,7 +13,8 @@
 
 </div>
 
-<div>
+---
+
 ## 🚀 Sobre mim
 
 ```txt
@@ -23,8 +24,8 @@
 💻 Apaixonado por tecnologia, design e desenvolvimento
 🧠 Explorando programação, infraestrutura e criatividade digital
 ```
-</div>
 
+---
 <div align="center">
 
 ## 📊 Estatísticas
