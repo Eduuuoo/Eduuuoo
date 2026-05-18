@@ -3,7 +3,7 @@
 # ⚡ EDUARDO FERNANDES SILVA
 
 ```txt
-Python • Redes • Cloud • Tecnologia Criativa
+ HTML • CSS • Python • Redes • Cloud 
 ```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Estudante+do+IFRO;Focado+em+Python;Redes+e+Cloud+Computing;Tecnologia+como+express%C3%A3o+criativa;Sempre+aprendendo+algo+novo..." />
@@ -72,7 +72,7 @@ Ela conecta criatividade, infraestrutura, comunicação e inovação.
 <a href="https://www.instagram.com/o_eduuuoo/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
-<a href="mailto:edfernandescn@gmail.com">
+<a href="edfernandescn@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/eduardo-fernandes-silva-43412b287/">
