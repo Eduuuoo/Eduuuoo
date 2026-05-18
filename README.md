@@ -11,9 +11,9 @@
 
 <img src="https://raw.githubusercontent.com/Eduuuoo/Eduuuoo/output/github-contribution-grid-snake-dark.svg" />
 
+</div>
 
-
-
+<div>
 ## 🚀 Sobre mim
 
 ```txt
@@ -23,9 +23,8 @@
 💻 Apaixonado por tecnologia, design e desenvolvimento
 🧠 Explorando programação, infraestrutura e criatividade digital
 ```
-
----
 </div>
+
 <div align="center">
 
 ## 📊 Estatísticas
