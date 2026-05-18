@@ -24,12 +24,17 @@
 
 ## 📊 Estatísticas
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Eduuuoo&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Eduuuoo&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduuuoo&layout=compact&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduuuoo&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
 
 </div>
----
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Eduuuoo&theme=github-dark&hide_border=true" />
+
+</div>
 
 <div align="center">
 
@@ -63,11 +68,9 @@ Ela conecta criatividade, infraestrutura, comunicação e inovação.
 <a href="https://www.instagram.com/o_eduuuoo/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
-  
 <a href="https://www.linkedin.com/in/eduardo-fernandes-silva-43412b287/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://www.youtube.com/@educraft1183">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
