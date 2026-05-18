@@ -15,7 +15,7 @@
 
 </div>
 
-
+<div align="center">
 ## 🚀 Sobre mim
 
 ```txt
@@ -27,7 +27,7 @@
 ```
 
 ---
-
+</div>
 <div align="center">
 
 ## 📊 Estatísticas
