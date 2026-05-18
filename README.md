@@ -13,7 +13,7 @@
 
 ## 🐍 Contribuições
 
-<img src="https://raw.githubusercontent.com/Eduuuoo/Eduuuoo/output/github-contribution-grid-snake-dark.svg" />
+<a href=".github/workflows/snake.yml">
 
 </div>
 
