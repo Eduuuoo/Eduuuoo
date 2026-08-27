@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ EDUARDO FERNANDES SILVA
+#   EDUARDO FERNANDES SILVA
 
 
  HTML • CSS • Python • Redes • Cloud 
